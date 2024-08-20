@@ -1,0 +1,122 @@
+body{
+    background-color: black;
+}
+h1,h2{
+    text-align: center;
+    color: #fff;
+}
+ul{
+    margin-left: 8%;
+}
+/* .card{
+    list-style: none;
+    border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc;
+    padding: 20px;
+    width: 260px;
+    height: 150px;
+    margin: 16px;
+    float: left;
+} */
+.card{
+    list-style: none;
+    margin: 16px;
+    padding: 20px;
+    float: left;
+}
+
+.card p span{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+.card p{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 1.5rem;
+    font-style: bold;
+    font-weight: 900;
+}
+.inner_card1{
+    background: #66B2FF;
+    width: 260px;
+    height: 150px;
+    padding: 20px;
+    margin-left: -26px;
+    margin-top: -18px;
+    /* border-radius: 7px; */
+    /* box-shadow: 0 2px 5px #ccc; */
+}
+.inner_card2{
+    background: #00CC66;
+    width: 260px;
+    height: 150px;
+    padding: 20px;
+    margin-left: -26px;
+    margin-top: -18px;
+    /* border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc; */
+}
+.inner_card3{
+    background: #CCCC00;
+    width: 260px;
+    height: 150px;
+    padding: 20px;
+    margin-left: -26px;
+    margin-top: -18px;
+    /* border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc; */
+}
+.inner_card4{
+    background: #FF8000;
+    width: 260px;
+    height: 150px;
+    padding: 20px;
+    margin-left: -26px;
+    margin-top: -18px;
+    /* border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc; */
+}
+.inner_card5{
+    background: #0080FF;
+    width: 260px;
+    height: 150px;
+    padding: 20px;
+    margin-left: -26px;
+    margin-top: -18px;
+    /* border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc; */
+}
+.inner_card6{
+    background: #8c8c18;
+    width: 260px;
+    height: 150px;
+    padding: 20px;
+    margin-left: -26px;
+    margin-top: -18px;
+    /* border-radius: 7px;
+    box-shadow: 0 2px 5px #ccc; */
+}
+.inner_card1:hover{
+    border-radius: 7px;
+    box-shadow: 4px 4px 5px #ccc; 
+}
+.inner_card2:hover{
+    border-radius: 7px;
+    box-shadow:4px 4px 5px #ccc; 
+}
+.inner_card3:hover{
+    border-radius: 7px;
+    box-shadow:4px 4px 5px #ccc; 
+}
+.inner_card4:hover{
+    border-radius: 7px;
+    box-shadow:4px 4px 5px #ccc; 
+}
+.inner_card5:hover{
+    border-radius: 7px;
+    box-shadow:4px 4px 5px #ccc; 
+}
+.inner_card6:hover{
+    border-radius: 7px;
+    box-shadow:4px 4px 5px #ccc; 
+}
